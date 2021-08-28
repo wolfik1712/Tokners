@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 	background-color: #0f1320;
+	overflow: hidden;
 }
 .container {
 	margin: 0;
