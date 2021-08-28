@@ -104,15 +104,16 @@
 	font-size: 36px;
 	line-height: 54px;
 	/* identical to box height, or 150% */
-	color: #2278D4;}
+	color: #2278d4;
+}
 
 .spanC {
-		display: inline;
-		font-family: Century Gothic;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 36px;
-		line-height: 54px;
-		/* identical to box height, or 150% */
-		color: #22A75D;
-	
+	display: inline;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 54px;
+	/* identical to box height, or 150% */
+	color: #22a75d;
+}

@@ -2,6 +2,7 @@
 	position: relative;
 	display: flex;
 	background-color: #0f1320;
+	padding-left: 6%;
 }
 .q2021img img {
 	display: flex;
