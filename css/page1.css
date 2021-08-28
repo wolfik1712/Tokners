@@ -1,0 +1,100 @@
+.socialMedia1 {
+	background-color: #0f1320;
+}
+.navigation {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 50px;
+}
+.navleft {
+	padding-left: 30px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.nav {
+	display: flex;
+	padding-left: 30px;
+}
+.nav a {
+	padding-left: 20px;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 17px;
+
+	color: #ffffff;
+}
+.navMenu2 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.navMenu2 a {
+	padding-right: 20px;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+
+	color: #ffffff;
+}
+.navMenu2 a:nth-child(2) {
+	padding: 20px 0 20px 0;
+	padding-left: 5px;
+	width: 147px;
+	border: 2px solid #22a75d;
+	box-sizing: border-box;
+	border-radius: 52px;
+}
+.reimagining {
+	overflow: hidden;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.reiText {
+	padding-left: 30px;
+}
+.reiText h2 {
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 24px;
+}
+.reiText h1 {
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	line-height: 54px;
+	letter-spacing: -0.02em;
+	width: 562px;
+	height: 162px;
+	color: #ffffff;
+}
+.reiText h3 {
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	width: 531px;
+	font-size: 16px;
+	line-height: 24px;
+
+	color: #dde2ff;
+	opacity: 0.6;
+}
+.reibutton {
+	width: 147px;
+	height: 48px;
+	background: #22a75d;
+	box-shadow: 0px 15px 25px rgba(34, 167, 93, 0.25);
+	border-radius: 52px;
+}
+.toknersImg img {
+	width: 900px;
+}

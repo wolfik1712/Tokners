@@ -1,0 +1,98 @@
+.forUser {
+	background-color: #0f1320;
+	display: flex;
+	justify-content: center;
+	align-content: space-around;
+}
+.creators {
+	display: flex;
+	padding-top: 20px;
+	flex-direction: column;
+	width: 600px;
+	height: 436px;
+	background: #171b29;
+	border-radius: 25px;
+	padding-left: 30px;
+}
+.creators h2 {
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 54px;
+	/* identical to box height, or 150% */
+
+	color: #ffffff;
+}
+.creators span {
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	width: 537px;
+
+	color: #ffffff;
+}
+.creators a {
+	padding-top: 20px;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 17px;
+	text-decoration-line: underline;
+
+	color: #22a75d;
+}
+.creators img {
+	width: 70px;
+	height: 70px;
+}
+.holders {
+	display: flex;
+	flex-direction: column;
+	padding-top: 20px;
+	margin-left: 20px;
+	margin-top: 60px;
+	width: 600px;
+	height: 436px;
+	background: #171b29;
+	border-radius: 25px;
+	padding-left: 30px;
+	margin-bottom: 60px;
+}
+.holders h2 {
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 54px;
+	/* identical to box height, or 150% */
+
+	color: #ffffff;
+}
+.holders span {
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	width: 537px;
+	color: #ffffff;
+}
+.holders a {
+	padding-top: 20px;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 17px;
+	text-decoration-line: underline;
+
+	color: #2278d4;
+}
+.holders img {
+	width: 70px;
+	height: 70px;
+}
