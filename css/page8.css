@@ -1,0 +1,20 @@
+.hrefBottom {
+	margin: 0;
+	display: flex;
+	background-color: #0f1320;
+	justify-content: center;
+	padding: 10%;
+}
+.hrefBottom a {
+	margin-left: -5px;
+	padding-left: 8%;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: -0.02em;
+	text-decoration-line: underline;
+	text-transform: uppercase;
+	color: #ffffff;
+}

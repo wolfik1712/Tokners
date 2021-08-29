@@ -1,4 +1,6 @@
 .forUser {
+	padding: 0;
+	margin: 0;
 	background-color: #0f1320;
 	display: flex;
 	justify-content: center;
