@@ -3,6 +3,7 @@
 	display: flex;
 	background-color: #0f1320;
 	padding-left: 6%;
+	overflow: hidden;
 }
 .q2021img img {
 	display: flex;
