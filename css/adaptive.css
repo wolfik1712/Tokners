@@ -48,34 +48,125 @@
 		margin-left: -30px;
 		width: 70%;
 	}
-	@media (max-width: 900px) {
-		.navleft {
-			padding: 0;
-		}
-		.imgNav img {
-			width: 110px;
-			padding-left: 10px;
-		}
-		.reiText {
-			width: 50%;
-		}
-		.creators span {
-			width: 310px;
-		}
-		.holders span {
-			width: 310px;
-		}
-		.differentText h2 {
-			margin: 0;
-			padding: 0;
-		}
-		.differentText h3 {
-			margin: 0;
-			padding: 0;
-		}
-		.differentText h4 {
-			margin: 0;
-			padding: 0;
-		}
+}
+@media (max-width: 900px) {
+	.navleft {
+		padding: 0;
 	}
+	.imgNav img {
+		width: 110px;
+		padding-left: 10px;
+	}
+	.reiText {
+		width: 50%;
+	}
+	.creators span {
+		width: 310px;
+	}
+	.holders span {
+		width: 310px;
+	}
+	.differentText h2 {
+		margin: 0;
+		padding: 0;
+	}
+	.differentText h3 {
+		margin: 0;
+		padding: 0;
+	}
+	.differentText h4 {
+		margin: 0;
+		padding: 0;
+	}
+}
+@media (max-width: 750px) {
+	.navigation {
+		display: flex;
+	}
+	.reimagining {
+		flex-direction: column;
+	}
+	.reiText h2 {
+		word-break: break-all;
+		overflow-wrap: break-word;
+		margin-left: -30%;
+		padding: 0;
+	}
+	.reiText h1 {
+		word-break: break-all;
+		left: 0;
+		margin-left: -30%;
+		padding: 0;
+	}
+	.reiText h3 {
+		word-break: break-all;
+		overflow-wrap: break-word;
+		left: 0;
+		margin-left: -30%;
+		padding: 0;
+	}
+	.forUser {
+		flex-direction: column;
+	}
+	.creators {
+		margin-left: 3%;
+		text-align: center;
+		width: 90%;
+	}
+	.creators span {
+		padding-left: 25%;
+	}
+	.toknersImg {
+		width: 90%;
+	}
+	.holders {
+		text-align: center;
+		width: 90%;
+	}
+	.holders span {
+		padding-left: 25%;
+	}
+	.different3 {
+		padding-left: 5px;
+		flex-direction: column;
+	}
+	.d3 {
+		width: 100%;
+		transform: scale(-1, 1);
+	}
+	.d4 {
+		width: 100%;
+		transform: scale(-1, 1);
+	}
+	.differentText {
+		display: flex;
+		left: 0;
+		padding-left: 10%;
+		margin-top: 70%;
+	}
+	.columnAll {
+		justify-content: center;
+		flex-direction: column;
+		width: 80%;
+	}
+	.container5 {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.c5 {
+		flex-direction: column-reverse;
+	}
+	.blockText {
+		flex-direction: column;
+	}
+	.block7 {
+		margin: 10px 10%;
+	}
+	.bolshe1 {
+		display: none;
+	}
+	.bolshe2 {
+		display: none;
+	}
+}
 }

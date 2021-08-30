@@ -66,6 +66,12 @@
 	font-weight: bold;
 	font-size: 16px;
 	line-height: 24px;
+	text-transform: uppercase;
+	background-color: #2b3087;
+	background-image: linear-gradient(0deg, #2b3087 0%, #00b4ec 81.99%), linear-gradient(0deg, #ffd100, #ffd100);
+	color: #0b2349;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 .reiText h1 {
 	font-family: Century Gothic;
