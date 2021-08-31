@@ -38,6 +38,9 @@
 	.img5page {
 		width: 40%;
 	}
+	.presale6::before {
+		width: 267px;
+	}
 	.reimagining img {
 		width: 80%;
 	}
