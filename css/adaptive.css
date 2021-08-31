@@ -327,34 +327,34 @@
 	.differentText h4 {
 		width: 220px;
 	}
-}
-.presale6 {
-	background-position: center;
-}
-.presale6 h2 {
-	padding-top: 80px;
-	font-size: 36px;
-}
-.buy7 {
-	width: 100%;
-	margin-top: -200px;
-	padding-top: 50px;
-	z-index: 51212120;
-}
-.bolshe1 {
-	margin-top: 50%;
-}
-.bolshe2 {
-	margin-top: 50%;
-}
-.hrefBottom {
-	display: none;
-}
-.socialButton {
-	width: 99%;
-	margin-left: -60px;
-}
-.reserved h2 {
-	padding-right: 130px;
-	width: 90%;
+	.presale6 {
+		background-position: center;
+	}
+	.presale6 h2 {
+		padding-top: 80px;
+		font-size: 36px;
+	}
+	.buy7 {
+		width: 100%;
+		margin-top: -200px;
+		padding-top: 50px;
+		z-index: 51212120;
+	}
+	.bolshe1 {
+		margin-top: 50%;
+	}
+	.bolshe2 {
+		margin-top: 50%;
+	}
+	.hrefBottom {
+		display: none;
+	}
+	.socialButton {
+		width: 99%;
+		margin-left: -60px;
+	}
+	.reserved h2 {
+		padding-right: 130px;
+		width: 90%;
+	}
 }
