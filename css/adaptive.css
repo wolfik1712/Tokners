@@ -22,6 +22,14 @@
 		margin: 0;
 		width: 80%;
 	}
+	.bolshe1 {
+		padding-top: 25%;
+		margin-right: -15%;
+	}
+	.bolshe2 {
+		padding-top: 25%;
+		margin-right: -15%;
+	}
 }
 @media (max-width: 1230px) {
 	.textCom {
@@ -47,6 +55,9 @@
 	.block7 h3 {
 		margin-left: -30px;
 		width: 70%;
+	}
+	.presale6 {
+		background-size: auto;
 	}
 }
 @media (max-width: 900px) {
@@ -77,6 +88,14 @@
 	.differentText h4 {
 		margin: 0;
 		padding: 0;
+	}
+	.bolshe1 {
+		padding-top: 35%;
+		margin-right: -20%;
+	}
+	.bolshe2 {
+		padding-top: 35%;
+		margin-right: -20%;
 	}
 }
 @media (max-width: 750px) {
@@ -156,6 +175,27 @@
 	.c5 {
 		flex-direction: column-reverse;
 	}
+	.presale6 {
+		display: flex;
+		height: 1900px;
+		background-size: cover;
+	}
+	.back6 {
+		position: absolute;
+		overflow: hidden;
+		flex-direction: column;
+		height: 1900px;
+		justify-content: center;
+	}
+	.presaleback {
+		margin-left: -90px;
+	}
+	.phaseOne {
+		padding-left: 30%;
+	}
+	.presale6::before {
+		display: none;
+	}
 	.blockText {
 		flex-direction: column;
 	}
@@ -163,10 +203,158 @@
 		margin: 10px 10%;
 	}
 	.bolshe1 {
-		display: none;
+		padding-right: 70px;
+		padding-top: 100%;
+		transform: rotate(90deg);
 	}
 	.bolshe2 {
-		display: none;
+		padding-right: 70px;
+		padding-top: 100%;
+		transform: rotate(90deg);
 	}
 }
+@media (max-width: 660px) {
+	.container {
+		overflow: hidden;
+	}
+	.navleft {
+		flex-direction: column;
+	}
+	.navigation {
+		flex-direction: column;
+	}
+	.reimagining {
+		word-wrap: break-word;
+		width: 95%;
+	}
+	.back6 {
+		width: 94%;
+	}
+	.forUser {
+		width: 94%;
+	}
+	.creators h2 {
+		margin-left: -20%;
+	}
+	.creators span {
+		margin-left: -20%;
+	}
+	.creators a {
+		margin-left: -20%;
+	}
+	.holders h2 {
+		margin-left: -20%;
+	}
+	.holders span {
+		margin-left: -20%;
+	}
+	.holders a {
+		margin-left: -20%;
+	}
+	.coming5 {
+		flex-direction: column-reverse;
+	}
+	.back6 {
+		width: 94%;
+	}
+	.phaseOne {
+		width: 70%;
+		margin-top: 10%;
+		margin-left: 180px;
+	}
+	.howTo {
+		margin-top: -18%;
+		margin-left: -50px;
+	}
+	.presaleback h2 {
+		margin-top: 20%;
+	}
+	.block7 {
+		width: 99%;
+		margin-left: -4px;
+	}
+	.bolshe1 {
+		margin-top: 20%;
+	}
+	.bolshe2 {
+		margin-top: 20%;
+	}
+	.footer {
+		justify-content: center;
+		width: 99%;
+		flex-direction: column;
+	}
+	.socialButton {
+		padding-left: 20%;
+	}
+	.reserved h2 {
+		padding-right: 90px;
+	}
+}
+@media (max-width: 340px) {
+	.reiText h1 {
+		width: auto;
+		height: 300px;
+		overflow-wrap: break-word;
+		word-break: keep-all;
+		font-size: 36px;
+	}
+	.reiText h3 {
+		width: auto;
+		height: 400px;
+		overflow-wrap: break-word;
+		word-break: keep-all;
+		font-size: 24px;
+	}
+	.creators span {
+		width: 99%;
+		margin-left: -70px;
+		overflow-wrap: break-word;
+		word-break: keep-all;
+	}
+	.holders span {
+		width: 99%;
+		margin-left: -80px;
+		overflow-wrap: break-word;
+		word-break: keep-all;
+	}
+	.differentText h2 {
+		padding-top: 110px;
+	}
+	.differentText h3 {
+		width: 220px;
+	}
+	.differentText h4 {
+		width: 220px;
+	}
+}
+.presale6 {
+	background-position: center;
+}
+.presale6 h2 {
+	padding-top: 80px;
+	font-size: 36px;
+}
+.buy7 {
+	width: 100%;
+	margin-top: -200px;
+	padding-top: 50px;
+	z-index: 51212120;
+}
+.bolshe1 {
+	margin-top: 50%;
+}
+.bolshe2 {
+	margin-top: 50%;
+}
+.hrefBottom {
+	display: none;
+}
+.socialButton {
+	width: 99%;
+	margin-left: -60px;
+}
+.reserved h2 {
+	padding-right: 130px;
+	width: 90%;
 }
