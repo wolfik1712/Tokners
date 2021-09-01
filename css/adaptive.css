@@ -1,4 +1,16 @@
 @media (max-width: 3000px) {
+	.bottomblink {
+		width: 80%;
+		overflow: hidden;
+	}
+	.navigation {
+		position: relative;
+		z-index: 55;
+	}
+	.footer {
+		position: relative;
+		z-index: 55;
+	}
 	.reiText h2 {
 		width: 99%;
 		font-size: 24px;
@@ -383,35 +395,27 @@
 	}
 	.crypto h2 {
 		width: 90%;
-		overview-wrap: break-word;
 	}
 	.crypto h3 {
 		width: 90%;
-		overview-wrap: break-word;
 	}
 	.crypto h4 {
 		width: 90%;
-		overview-wrap: break-word;
 	}
 	.economy h2 {
 		width: 90%;
-		overview-wrap: break-word;
 	}
 	.economy h3 {
 		width: 90%;
-		overview-wrap: break-word;
 	}
 	.personalities p {
 		width: 90%;
-		overview-wrap: break-word;
 	}
 	.kanye h2 {
 		width: 90%;
-		overview-wrap: break-word;
 	}
 	.kanye h3 {
 		width: 90%;
-		overview-wrap: break-word;
 	}
 	.presale6 {
 		background-position: center;
@@ -459,3 +463,4 @@
 		padding-right: 130px;
 		width: 90%;
 	}
+}
