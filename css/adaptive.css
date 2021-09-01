@@ -1,3 +1,13 @@
+@media (max-width: 3000px) {
+	.presaleback h2 {
+		margin-top: -200px;
+	}
+}
+@media (max-width: 2200px) {
+	.presaleback h2 {
+		margin-top: -100px;
+	}
+}
 @media (max-width: 1440px) {
 	.body {
 		overflow: hidden;
@@ -32,6 +42,9 @@
 	}
 }
 @media (max-width: 1230px) {
+	.presaleback h2 {
+		margin-top: -50px;
+	}
 	.textCom {
 		width: 80%;
 	}
@@ -294,7 +307,10 @@
 		padding-right: 90px;
 	}
 }
-@media (max-width: 340px) {
+@media (max-width: 410px) {
+	.navMenu2 {
+		margin-left: 25%;
+	}
 	.reiText h1 {
 		width: auto;
 		height: 300px;
@@ -311,24 +327,56 @@
 	}
 	.creators span {
 		width: 99%;
-		margin-left: -70px;
+		margin-left: -90px;
 		overflow-wrap: break-word;
 		word-break: keep-all;
 	}
 	.holders span {
 		width: 99%;
-		margin-left: -80px;
+		margin-left: -100px;
 		overflow-wrap: break-word;
 		word-break: keep-all;
 	}
 	.differentText h2 {
-		padding-top: 110px;
+		padding-top: 90px;
 	}
 	.differentText h3 {
 		width: 220px;
 	}
 	.differentText h4 {
 		width: 220px;
+	}
+	.crypto h2 {
+		width: 90%;
+		overview-wrap: break-word;
+	}
+	.crypto h3 {
+		width: 90%;
+		overview-wrap: break-word;
+	}
+	.crypto h4 {
+		width: 90%;
+		overview-wrap: break-word;
+	}
+	.economy h2 {
+		width: 90%;
+		overview-wrap: break-word;
+	}
+	.economy h3 {
+		width: 90%;
+		overview-wrap: break-word;
+	}
+	.personalities p {
+		width: 90%;
+		overview-wrap: break-word;
+	}
+	.kanye h2 {
+		width: 90%;
+		overview-wrap: break-word;
+	}
+	.kanye h3 {
+		width: 90%;
+		overview-wrap: break-word;
 	}
 	.presale6 {
 		background-position: center;
@@ -339,10 +387,26 @@
 	}
 	.buy7 {
 		width: 100%;
-		margin-top: -200px;
-		padding-top: 50px;
+		margin-top: -150px;
+		padding-top: 80px;
 		z-index: 51212120;
 	}
+	.bolshe1 {
+		margin-top: 30%;
+	}
+	.bolshe2 {
+		margin-top: 30%;
+	}
+	.socialButton {
+		width: 99%;
+		margin-left: -30px;
+	}
+	.reserved h2 {
+		padding-right: 160px;
+		width: 90%;
+	}
+}
+@media (max-width: 340px) {
 	.bolshe1 {
 		margin-top: 50%;
 	}
