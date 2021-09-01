@@ -233,6 +233,19 @@
 	.container {
 		overflow: hidden;
 	}
+	.reiText h1 {
+		width: auto;
+		height: 300px;
+		overflow-wrap: break-word;
+		word-break: keep-all;
+	}
+	.reiText h3 {
+		width: auto;
+		height: 300px;
+		overflow-wrap: break-word;
+		word-break: keep-all;
+		font-size: 26px;
+	}
 	.navleft {
 		flex-direction: column;
 	}
