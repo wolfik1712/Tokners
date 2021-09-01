@@ -96,3 +96,7 @@
 	right: 0;
 	z-index: 55;
 }
+.bottomblink {
+	width: 80%;
+	overflow: hidden;
+}
