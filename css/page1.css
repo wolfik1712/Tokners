@@ -1,5 +1,15 @@
 .socialMedia1 {
 	background-color: #0f1320;
+	overflow: hidden;
+}
+.topblink {
+	width: 90%;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	filter: blur(200px);
+	opacity: 0.4;
 }
 .navigation {
 	display: flex;

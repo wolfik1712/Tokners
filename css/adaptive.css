@@ -1,4 +1,19 @@
 @media (max-width: 3000px) {
+	.reiText h2 {
+		width: 99%;
+		font-size: 24px;
+	}
+	.topblink {
+		overflow: hidden;
+	}
+	.reiText h1 {
+		width: 99%;
+		font-size: 60px;
+	}
+	.reiText h3 {
+		width: 99%;
+		font-size: 24px;
+	}
 	.presaleback h2 {
 		margin-top: -200px;
 	}
@@ -7,6 +22,10 @@
 	.presaleback h2 {
 		margin-top: -100px;
 	}
+	.reiText h3 {
+		padding-top: 20px;
+		width: 99%;
+		font-size: 24px;
 }
 @media (max-width: 1440px) {
 	.body {
@@ -87,6 +106,9 @@
 	.reiText {
 		width: 50%;
 	}
+	.reiText h3 {
+		padding-top: 90px;
+	}
 	.creators span {
 		width: 310px;
 	}
@@ -138,7 +160,7 @@
 		overflow-wrap: break-word;
 		left: 0;
 		margin-left: -30%;
-		padding: 0;
+		padding-top: 90px;
 	}
 	.forUser {
 		flex-direction: column;
@@ -437,4 +459,3 @@
 		padding-right: 130px;
 		width: 90%;
 	}
-}

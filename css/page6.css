@@ -111,6 +111,7 @@
 	height: 35%;
 	background: linear-gradient(0deg, #2b3087 0%, #00b4ec 66.27%);
 	transform: rotate(180deg);
+	z-index: -1;
 }
 .back6right {
 	position: absolute;

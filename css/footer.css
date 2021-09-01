@@ -32,11 +32,12 @@
 
 	color: #ffffff;
 }
-.lightback {
+.bottomblink {
 	position: absolute;
-	display: flex;
-	background: url(../img/bottom-blink.png);
+	width: 90%;
+	margin-top: 20%;
+	margin-left: 20%;
 	filter: blur(200px);
-	transform: matrix(-0.97, 0.26, 0.26, 0.97, 0, 0);
-	opacity: 0.8;
+	opacity: 0.4;
+	z-index: 2;
 }
