@@ -107,6 +107,11 @@
 		background-size: auto;
 	}
 }
+	.tknrsImg{
+	top:40%;
+	height: 400px;
+	
+}
 @media (max-width: 900px) {
 	.navleft {
 		padding: 0;
