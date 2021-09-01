@@ -87,10 +87,8 @@
 }
 .tknrsImg {
 	position: absolute;
-	top: 70%;
 	display: flex;
-	width: 70%;
-	height: 50%;
+	transform: translateY(-110%);
 }
 .tknrsThree h2 {
 	font-family: Century Gothic;
@@ -138,7 +136,7 @@
 	display: flex;
 	right: 0;
 	margin-top: -20%;
-	margin-right: 8%;
+	margin-right: 4%;
 	justify-content: center;
 	flex-direction: column;
 	background-color: #0f1320;
