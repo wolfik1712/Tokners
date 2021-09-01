@@ -35,7 +35,6 @@
 .bottomblink {
 	position: absolute;
 	width: 90%;
-	margin-top: 20%;
 	margin-left: 20%;
 	filter: blur(200px);
 	opacity: 0.4;
